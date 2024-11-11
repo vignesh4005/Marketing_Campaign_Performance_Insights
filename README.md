@@ -15,6 +15,14 @@ The goal is to identify success factors that can be leveraged to enhance future 
 
 ---
 
+## Libraries Used
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+
+## Exploratory Data Analysis (EDA)
+The analysis includes an **Exploratory Data Analysis (EDA)** process done with **Pandas**, **Matplotlib**, and **Seaborn** to derive meaningful insights from the marketing campaign data. Key EDA steps included:
+- **Pandas**: Data cleaning, transformation, and aggregation of key metrics like conversion rates, acquisition costs, and ROI.
+- **Matplotlib & Seaborn**: Data visualization to highlight trends, correlations, and geographical performance, including time-series graphs, heatmaps, and distribution plots.
+
 ## Key Conclusions
 
 ### 1. **Campaign Performance**
@@ -59,11 +67,3 @@ The goal is to identify success factors that can be leveraged to enhance future 
 This analysis offers valuable insights into optimizing marketing efforts across channels, audiences, and geographies, leading to better performance and sustained growth. The actionable recommendations provide a clear pathway to improving campaign success and ROI.
 
 ---
-
-## Libraries Used
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-
-## Exploratory Data Analysis (EDA)
-The analysis includes an **Exploratory Data Analysis (EDA)** process done with **Pandas**, **Matplotlib**, and **Seaborn** to derive meaningful insights from the marketing campaign data. Key EDA steps included:
-- **Pandas**: Data cleaning, transformation, and aggregation of key metrics like conversion rates, acquisition costs, and ROI.
-- **Matplotlib & Seaborn**: Data visualization to highlight trends, correlations, and geographical performance, including time-series graphs, heatmaps, and distribution plots.
