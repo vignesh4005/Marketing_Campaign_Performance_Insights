@@ -61,4 +61,9 @@ This analysis offers valuable insights into optimizing marketing efforts across 
 ---
 
 ## Libraries Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+
+## Exploratory Data Analysis (EDA)
+The analysis includes an **Exploratory Data Analysis (EDA)** process done with **Pandas**, **Matplotlib**, and **Seaborn** to derive meaningful insights from the marketing campaign data. Key EDA steps included:
+- **Pandas**: Data cleaning, transformation, and aggregation of key metrics like conversion rates, acquisition costs, and ROI.
+- **Matplotlib & Seaborn**: Data visualization to highlight trends, correlations, and geographical performance, including time-series graphs, heatmaps, and distribution plots.
